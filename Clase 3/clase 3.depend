@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1745456543 source:c:\users\laboratorios\desktop\clase 3\main.c
+	"hache.h"
+
+1745456557 c:\users\laboratorios\desktop\clase 3\hache.h
+	<stdio.h>
+	<stdlib.h>
+
+1745456543 source:c:\users\laboratorios\desktop\clase 3\func.c
+	"hache.h"
+
+1745875659 source:c:\users\matuc\desktop\universidad\topicardos\clase 3\func.c
+	"hache.h"
+
+1745858594 c:\users\matuc\desktop\universidad\topicardos\clase 3\hache.h
+	<stdio.h>
+	<stdlib.h>
+
+1745875842 source:c:\users\matuc\desktop\universidad\topicardos\clase 3\main.c
+	"hache.h"
+

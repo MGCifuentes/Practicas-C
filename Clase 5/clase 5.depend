@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1746663482 source:c:\users\laboratorios\downloads\clase 5\main.c
+	"puntoh.h"
+
+1746663325 c:\users\laboratorios\downloads\clase 5\puntoh.h
+	<stdio.h>
+	<stdlib.h>
+
+1746663325 source:c:\users\laboratorios\downloads\clase 5\puntoc.c
+	"puntoh.h"
+
+1747085232 source:c:\users\matuc\desktop\universidad\topicardos\clase 5\main.c
+	"puntoh.h"
+
+1747085205 c:\users\matuc\desktop\universidad\topicardos\clase 5\puntoh.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1747085237 source:c:\users\matuc\desktop\universidad\topicardos\clase 5\puntoc.c
+	"puntoh.h"
+

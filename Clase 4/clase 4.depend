@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1746573482 source:c:\users\matuc\desktop\universidad\topicardos\clase 4\func.c
+	"decfunc.h"
+
+1746573433 c:\users\matuc\desktop\universidad\topicardos\clase 4\decfunc.h
+	<stdio.h>
+	<stdlib.h>
+
+1746573433 source:c:\users\matuc\desktop\universidad\topicardos\clase 4\main.c
+	"decfunc.h"
+

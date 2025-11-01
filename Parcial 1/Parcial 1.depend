@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1750029201 source:c:\users\matuc\desktop\universidad\topicardos\parcial 1\funciones.c
+	"Declaracion.h"
+
+1750028066 c:\users\matuc\desktop\universidad\topicardos\parcial 1\declaracion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1750029140 source:c:\users\matuc\desktop\universidad\topicardos\parcial 1\main.c
+	"Declaracion.h"
+

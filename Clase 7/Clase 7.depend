@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748048508 source:c:\users\matuc\desktop\universidad\topicardos\clase 7\funciones.c
+	"Cabecera.h"
+
+1748048435 c:\users\matuc\desktop\universidad\topicardos\clase 7\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+
+1748048435 source:c:\users\matuc\desktop\universidad\topicardos\clase 7\main.c
+	"Cabecera.h"
+

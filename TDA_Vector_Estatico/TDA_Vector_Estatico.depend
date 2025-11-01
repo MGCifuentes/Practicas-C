@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747877019 source:c:\users\matia\documents\tda_vector_estatico\main.c
+	<stdio.h>
+	<stdlib.h>
+
