@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1761188310 source:c:\users\matuc\desktop\universidad\topicardos\parcerito\desarrollo.c
+	"Declaraciones.h"
+
+1761188027 c:\users\matuc\desktop\universidad\topicardos\parcerito\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1761674124 source:c:\users\matuc\desktop\universidad\topicardos\parcerito\main.c
+	"Declaraciones.h"
+
+1762298536 source:c:\users\matuc\desktop\parcerito\desarrollo.c
+	"Declaraciones.h"
+
+1762298536 c:\users\matuc\desktop\parcerito\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1761674143 source:c:\users\matuc\desktop\parcerito\main.c
+	"Declaraciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1763239722 source:c:\users\matuc\desktop\universidad\topicardos\recursividad\desarrollo.c
+	"Declaraciones.h"
+
+1763239722 c:\users\matuc\desktop\universidad\topicardos\recursividad\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1763239722 source:c:\users\matuc\desktop\universidad\topicardos\recursividad\main.c
+	"Declaraciones.h"
+

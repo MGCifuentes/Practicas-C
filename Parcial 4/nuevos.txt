@@ -1,0 +1,5 @@
+4321,man jijo,5.8
+1234,jijo man,8.5
+
+1010,cifuentes,10
+1233,altamiranda,9.9

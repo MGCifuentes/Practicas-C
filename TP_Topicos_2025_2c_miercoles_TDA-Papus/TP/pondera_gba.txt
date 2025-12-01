@@ -1,0 +1,13 @@
+Descripcion;Region;Ponderador_div
+Alimentos y bebidas no alcohólicas;GBA;0,234
+Bebidas alcohólicas y tabaco;GBA;0,033
+Prendas de vestir y calzado;GBA;0,085
+Vivienda, agua, electricidad, gas y otros combustibles;GBA;0,105
+Equipamiento y mantenimiento del hogar;GBA;0,063
+Salud;GBA;0,088
+Transporte;GBA;0,116
+Comunicación;GBA;0,028
+Recreación y cultura;GBA;0,075
+Educación;GBA;0,03
+Restaurantes y hoteles;GBA;0,108
+Bienes y servicios varios;GBA;0,036

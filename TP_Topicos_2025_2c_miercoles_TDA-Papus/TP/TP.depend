@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1762552838 source:c:\users\matuc\desktop\universidad\topicardos\tp\funciones.c
+	"Desarrollo.h"
+
+1762553515 c:\users\matuc\desktop\universidad\topicardos\tp\desarrollo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762549873 source:c:\users\matuc\desktop\universidad\topicardos\tp\main.c
+	"Desarrollo.h"
+	<conio.h>
+
+1763614964 source:c:\users\matuc\desktop\tp\main.c
+	"Desarrollo.h"
+
+1763843906 c:\users\matuc\desktop\tp\desarrollo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763941863 source:c:\users\matuc\desktop\tp\funciones.c
+	"Desarrollo.h"
+

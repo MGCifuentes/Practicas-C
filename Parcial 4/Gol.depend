@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1763854823 source:c:\users\matuc\desktop\universidad\topicardos\gol\desarrollo.c
+	"Declaraciones.h"
+
+1763853512 c:\users\matuc\desktop\universidad\topicardos\gol\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763854823 source:c:\users\matuc\desktop\universidad\topicardos\gol\main.c
+	"Declaraciones.h"
+
+1763953576 source:c:\users\patricio\desktop\gol\desarrollo.c
+	"Declaraciones.h"
+
+1763956813 c:\users\patricio\desktop\gol\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763943648 source:c:\users\patricio\desktop\gol\main.c
+	"Declaraciones.h"
+
+1764104164 source:c:\users\macar\onedrive\desktop\gol\desarrollo.c
+	"Declaraciones.h"
+
+1764014769 c:\users\macar\onedrive\desktop\gol\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1764014713 source:c:\users\macar\onedrive\desktop\gol\main.c
+	"Declaraciones.h"
+
